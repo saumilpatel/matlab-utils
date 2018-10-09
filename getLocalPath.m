@@ -43,7 +43,7 @@ mapping = {
     '/stor02','/mnt/stor02','X:','/Volumes/stor02'
     '/scratch01','/mnt/scratch01','V:','/Volumes/scratch01'
     '/at_scratch','/mnt/at_scratch','W:','/Volumes/at_scratch'
-    '/raw','/mnt/at_scratch','W:','/Volumes/at_scratch'
+    '/raw','/mnt/at_scratch','W:','/Volumes/M'
     '/2P2Drive','/mnt/2P2Drive','Q:','/Volumes/2P2Drive'
     };
 
