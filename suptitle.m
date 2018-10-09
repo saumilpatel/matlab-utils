@@ -23,7 +23,7 @@ end;
 plotregion = .94;
 
 % Y position of title in normalized coordinates
-titleypos  = .946;
+titleypos  = .976; % .946
 
 % Fontsize for supertitle
 if SIZE,
